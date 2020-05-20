@@ -1,0 +1,6 @@
+C:\Users\biggi\Desktop\Inheritance.Lab\Inheritance.Lab\bin\Debug\Inheritance.Lab.exe.config
+C:\Users\biggi\Desktop\Inheritance.Lab\Inheritance.Lab\bin\Debug\Inheritance.Lab.exe
+C:\Users\biggi\Desktop\Inheritance.Lab\Inheritance.Lab\bin\Debug\Inheritance.Lab.pdb
+C:\Users\biggi\Desktop\Inheritance.Lab\Inheritance.Lab\obj\Debug\SingleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\biggi\Desktop\Inheritance.Lab\Inheritance.Lab\obj\Debug\Inheritance.Lab.exe
+C:\Users\biggi\Desktop\Inheritance.Lab\Inheritance.Lab\obj\Debug\Inheritance.Lab.pdb

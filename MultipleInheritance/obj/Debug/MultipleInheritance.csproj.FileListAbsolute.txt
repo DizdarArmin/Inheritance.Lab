@@ -1,0 +1,6 @@
+C:\Users\biggi\Desktop\Inheritance.Lab\MultipleInheritance\bin\Debug\MultipleInheritance.exe.config
+C:\Users\biggi\Desktop\Inheritance.Lab\MultipleInheritance\bin\Debug\MultipleInheritance.exe
+C:\Users\biggi\Desktop\Inheritance.Lab\MultipleInheritance\bin\Debug\MultipleInheritance.pdb
+C:\Users\biggi\Desktop\Inheritance.Lab\MultipleInheritance\obj\Debug\MultipleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\biggi\Desktop\Inheritance.Lab\MultipleInheritance\obj\Debug\MultipleInheritance.exe
+C:\Users\biggi\Desktop\Inheritance.Lab\MultipleInheritance\obj\Debug\MultipleInheritance.pdb

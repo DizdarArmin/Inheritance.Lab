@@ -1,0 +1,6 @@
+C:\Users\biggi\Desktop\Inheritance.Lab\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe.config
+C:\Users\biggi\Desktop\Inheritance.Lab\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.exe
+C:\Users\biggi\Desktop\Inheritance.Lab\HierarchicalInheritance\bin\Debug\HierarchicalInheritance.pdb
+C:\Users\biggi\Desktop\Inheritance.Lab\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\biggi\Desktop\Inheritance.Lab\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.exe
+C:\Users\biggi\Desktop\Inheritance.Lab\HierarchicalInheritance\obj\Debug\HierarchicalInheritance.pdb
