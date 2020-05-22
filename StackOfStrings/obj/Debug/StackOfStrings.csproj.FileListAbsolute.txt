@@ -1,0 +1,6 @@
+C:\Users\biggi\Desktop\Inheritance.Lab\StackOfStrings\bin\Debug\StackOfStrings.exe.config
+C:\Users\biggi\Desktop\Inheritance.Lab\StackOfStrings\bin\Debug\StackOfStrings.exe
+C:\Users\biggi\Desktop\Inheritance.Lab\StackOfStrings\bin\Debug\StackOfStrings.pdb
+C:\Users\biggi\Desktop\Inheritance.Lab\StackOfStrings\obj\Debug\StackOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\biggi\Desktop\Inheritance.Lab\StackOfStrings\obj\Debug\StackOfStrings.exe
+C:\Users\biggi\Desktop\Inheritance.Lab\StackOfStrings\obj\Debug\StackOfStrings.pdb
